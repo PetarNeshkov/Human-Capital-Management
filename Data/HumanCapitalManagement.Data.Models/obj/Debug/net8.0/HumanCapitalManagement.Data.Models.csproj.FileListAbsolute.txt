@@ -1,0 +1,16 @@
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.deps.json
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.AssemblyReference.cache
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.AssemblyInfoInputs.cache
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.AssemblyInfo.cs
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.CoreCompileInputs.cache
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.sourcelink.json
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.CopyComplete
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Models.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Models.dll

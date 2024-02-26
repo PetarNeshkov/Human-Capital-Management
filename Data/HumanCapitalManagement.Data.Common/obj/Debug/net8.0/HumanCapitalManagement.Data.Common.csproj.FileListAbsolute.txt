@@ -1,0 +1,12 @@
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.deps.json
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.AssemblyInfoInputs.cache
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.AssemblyInfo.cs
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.csproj.CoreCompileInputs.cache
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.sourcelink.json
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Common.dll
