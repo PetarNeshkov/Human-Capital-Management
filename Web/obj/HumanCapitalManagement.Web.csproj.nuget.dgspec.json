@@ -25,7 +25,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

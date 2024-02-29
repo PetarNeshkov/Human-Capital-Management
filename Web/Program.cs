@@ -16,7 +16,8 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-app.UseHttpsRedirection()
+app.PrepareDatabase()
+    .UseHttpsRedirection()
     .UseStaticFiles()
     .UseRouting()
     .UseAuthentication()

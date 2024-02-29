@@ -10,3 +10,9 @@ E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Commo
 E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\obj\Debug\net8.0\refint\HumanCapitalManagement.Common.dll
 E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\obj\Debug\net8.0\HumanCapitalManagement.Common.pdb
 E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\obj\Debug\net8.0\ref\HumanCapitalManagement.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\obj\Debug\net8.0\HumanCapitalManagement.Common.csproj.AssemblyReference.cache
+E:\SoftUni\Projects\Human-Capital-Management\Common\HumanCapitalManagement.Common\obj\Debug\net8.0\HumanCapitalManagement.Common.csproj.CopyComplete
