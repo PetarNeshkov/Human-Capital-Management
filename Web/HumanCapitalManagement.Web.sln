@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanCapitalManagement.Comm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanCapitalManagement.Business", "..\Services\HumanCapitalManagement.Business\HumanCapitalManagement.Business.csproj", "{D46DE3D0-4413-4FD2-9F5C-2126FA84AB5C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{29A92349-AD7F-4728-B809-8182E2234F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumanCapitalManagement.Common", "..\Common\HumanCapitalManagement.Common\HumanCapitalManagement.Common.csproj", "{AEBB79F9-401E-46C7-A907-C407B7AFC981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,10 @@ Global
 		{D46DE3D0-4413-4FD2-9F5C-2126FA84AB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D46DE3D0-4413-4FD2-9F5C-2126FA84AB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D46DE3D0-4413-4FD2-9F5C-2126FA84AB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBB79F9-401E-46C7-A907-C407B7AFC981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBB79F9-401E-46C7-A907-C407B7AFC981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBB79F9-401E-46C7-A907-C407B7AFC981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBB79F9-401E-46C7-A907-C407B7AFC981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A2015796-C866-40CD-BAC4-90B862A75035} = {CECAD8BB-FB5F-43FB-AF70-3711A83A317C}
@@ -56,5 +64,6 @@ Global
 		{D0BA4BF9-61AD-4F44-8499-50EFBE63A765} = {35979220-2447-41F7-9A24-F6989A06F016}
 		{6F9B0E0F-B529-4C85-B821-8C5D38AACCD6} = {9D3C4F87-109A-4BAF-98EC-E969CA87480D}
 		{D46DE3D0-4413-4FD2-9F5C-2126FA84AB5C} = {9D3C4F87-109A-4BAF-98EC-E969CA87480D}
+		{AEBB79F9-401E-46C7-A907-C407B7AFC981} = {29A92349-AD7F-4728-B809-8182E2234F19}
 	EndGlobalSection
 EndGlobal

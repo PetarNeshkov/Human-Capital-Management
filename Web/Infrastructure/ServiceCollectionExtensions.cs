@@ -1,5 +1,8 @@
 using HumanCapitalManagement.Common.Data.DependencyInjectionInterfaces;
 using HumanCapitalManagement.Data;
+using HumanCapitalManagement.Data.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace HumanCapitalManagement.Web.Infrastructure;
@@ -50,7 +53,33 @@ public static class ServiceCollectionExtensions
                 services.AddSingleton(type.Service, type.Implementation);
             }
         };
+        
+        return services;
+    }
+    
+    public static IServiceCollection AddAntiForgeryHeader(this IServiceCollection services)
+        => services
+            .AddAntiforgery(options => options
+                .HeaderName = "X-CSRF-TOKEN");
+    
+    public static IServiceCollection AddControllersWithAutoAntiForgeryTokenAttribute(this IServiceCollection services)
+    {    
+        services
+            .AddControllersWithViews(options => options
+                .Filters.Add<AutoValidateAntiforgeryTokenAttribute>());
 
         return services;
     }
+    
+    public static IServiceCollection AddIdentity(this IServiceCollection services)
+    {
+        services
+            .AddDefaultIdentity<User>(options => options.SetIdentityOptions())
+            .AddRoles<IdentityRole>()
+            .AddEntityFrameworkStores<HumanCapitalManagementDbContext>();
+
+        return services;
+    }
+    
+    
 }
