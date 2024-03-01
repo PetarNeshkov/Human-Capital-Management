@@ -1,3 +1,4 @@
+using HumanCapitalManagement.Web;
 using HumanCapitalManagement.Web.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +7,10 @@ builder.Services
     .AddDatabase(builder.Configuration)
     .AddIdentity()
     .AddAntiForgeryHeader()
-    .AddControllersWithAutoAntiForgeryTokenAttribute();
+    .AddAutoMapper(typeof(AutoMapperProfiles))
+    .AddApplicationServices()
+    .AddControllersWithAutoAntiForgeryTokenAttribute()
+    .AddEndpointsApiExplorer();
 
 var app = builder.Build();
 

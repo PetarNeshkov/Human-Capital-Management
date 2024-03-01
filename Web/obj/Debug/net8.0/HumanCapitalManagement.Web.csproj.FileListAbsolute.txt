@@ -389,3 +389,8 @@ E:\SoftUni\Projects\Human-Capital-Management\Web\obj\Debug\net8.0\HumanCapitalMa
 E:\SoftUni\Projects\Human-Capital-Management\Web\obj\Debug\net8.0\ref\HumanCapitalManagement.Web.dll
 E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Common.dll
 E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Common.pdb
+E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\package-lock.json
+E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\package.json
+E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\AutoMapper.dll
+E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Business.dll
+E:\SoftUni\Projects\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Business.pdb

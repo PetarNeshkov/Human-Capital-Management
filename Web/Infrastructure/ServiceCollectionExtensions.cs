@@ -1,4 +1,6 @@
-using HumanCapitalManagement.Common.Data.DependencyInjectionInterfaces;
+using System.Reflection;
+using HumanCapitalManagement.Business.BusinessServices;
+using HumanCapitalManagement.Business.DependencyInjectionInterfaces;
 using HumanCapitalManagement.Data;
 using HumanCapitalManagement.Data.Models;
 using Microsoft.AspNetCore.Identity;
@@ -19,15 +21,15 @@ public static class ServiceCollectionExtensions
     public static IServiceCollection AddApplicationServices(
         this IServiceCollection services)
     {
-        var serviceInterfaceType = typeof(ITransientService);
+        var transientInterfaceType = typeof(IService);
         var scopedInterfaceType = typeof(IScopedService);
         var singletonInterfaceType = typeof(ISingletonService);
-
+        
         var types = AppDomain.CurrentDomain.GetAssemblies()
-            .SelectMany(a => a.GetExportedTypes()
+            .SelectMany(assembly => assembly.GetExportedTypes()
                 .Where(t => t.IsClass && !t.IsAbstract)
                 .Where(t =>
-                    serviceInterfaceType.IsAssignableFrom(t) ||
+                    transientInterfaceType.IsAssignableFrom(t) ||
                     scopedInterfaceType.IsAssignableFrom(t) ||
                     singletonInterfaceType.IsAssignableFrom(t)
                 )
@@ -40,7 +42,7 @@ public static class ServiceCollectionExtensions
 
         foreach (var type in types)
         {
-            if (serviceInterfaceType.IsAssignableFrom(type.Service))
+            if (transientInterfaceType.IsAssignableFrom(type.Service))
             {
                 services.AddTransient(type.Service, type.Implementation);
             }

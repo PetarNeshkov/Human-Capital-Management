@@ -20,4 +20,10 @@ public class ErrorMessages
         public const string ExistingUsername = "There is already user with that username.";
         public const string ExistingEmail = "There is already user with that email.";
     }
+    
+    public static class Employee
+    {
+        public const string NameLengthErrorMessage= "The {0} must be at least {2} and at max {1} characters long.";
+
+    }
 }

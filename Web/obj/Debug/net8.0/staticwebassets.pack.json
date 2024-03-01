@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\HumanCapitalManagement.Web.bundle.scp.css"
     },
     {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\css\\add-department.css",
+      "PackagePath": "staticwebassets\\css\\add-department.css"
+    },
+    {
       "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\js\\populateDepartmentDropdown.js",
+      "PackagePath": "staticwebassets\\js\\populateDepartmentDropdown.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\js\\selectize.js",
+      "PackagePath": "staticwebassets\\js\\selectize.js"
     },
     {
       "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\js\\site.js",
@@ -243,6 +255,262 @@
     {
       "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.bootstrap2.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.bootstrap2.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.bootstrap3.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.bootstrap3.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.default.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.default.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\css\\selectize.legacy.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\css\\selectize.legacy.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\js\\standalone\\selectize.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\js\\standalone\\selectize.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\js\\standalone\\selectize.min.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\js\\standalone\\selectize.min.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\plugins\\drag_drop.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\plugins\\drag_drop.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\plugins\\dropdown_header.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\plugins\\dropdown_header.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\plugins\\optgroup_columns.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\plugins\\optgroup_columns.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\plugins\\remove_button.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\plugins\\remove_button.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\selectize.bootstrap2.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\selectize.bootstrap2.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\selectize.bootstrap3.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\selectize.bootstrap3.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\selectize.default.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\selectize.default.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\selectize.legacy.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\selectize.legacy.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\less\\selectize.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\less\\selectize.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\plugins\\drag_drop.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\plugins\\drag_drop.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\plugins\\dropdown_header.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\plugins\\dropdown_header.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\plugins\\optgroup_columns.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\plugins\\optgroup_columns.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\plugins\\remove_button.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\plugins\\remove_button.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\selectize.bootstrap3.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\selectize.bootstrap3.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\selectize.bootstrap4.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\selectize.bootstrap4.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\selectize.bootstrap5.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\selectize.bootstrap5.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\selectize.default.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\selectize.default.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\dist\\scss\\selectize.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\dist\\scss\\selectize.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\.wrapper.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\.wrapper.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\constants.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\constants.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\contrib\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\contrib\\highlight.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\contrib\\microevent.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\contrib\\microevent.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\defaults.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\defaults.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\.wrapper.css",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\.wrapper.css"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\selectize.bootstrap2.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\selectize.bootstrap2.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\selectize.bootstrap3.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\selectize.bootstrap3.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\selectize.default.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\selectize.default.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\selectize.legacy.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\selectize.legacy.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\less\\selectize.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\less\\selectize.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\auto_position\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\auto_position\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\auto_select_on_type\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\auto_select_on_type\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\autofill_disable\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\autofill_disable\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\drag_drop\\plugin.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\dropdown_header\\plugin.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\optgroup_columns\\plugin.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\remove_button\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\remove_button\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\remove_button\\plugin.less",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\remove_button\\plugin.less"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\remove_button\\plugin.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\remove_button\\plugin.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\restore_on_backspace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\restore_on_backspace\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\select_on_focus\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\select_on_focus\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\plugins\\tag_limit\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\plugins\\tag_limit\\plugin.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\scss\\selectize.bootstrap3.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\scss\\selectize.bootstrap3.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\scss\\selectize.bootstrap4.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\scss\\selectize.bootstrap4.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\scss\\selectize.bootstrap5.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\scss\\selectize.bootstrap5.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\scss\\selectize.default.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\scss\\selectize.default.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\scss\\selectize.scss",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\scss\\selectize.scss"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\selectize.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\selectize.jquery.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\selectize.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\selectize.js"
+    },
+    {
+      "Id": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\wwwroot\\lib\\selectize\\src\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\selectize\\src\\utils.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HumanCapitalManagement.Web.Microsoft.AspNetCore.StaticWebAssets.props",
