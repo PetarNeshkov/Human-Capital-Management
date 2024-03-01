@@ -24,6 +24,8 @@ public class ErrorMessages
     public static class Employee
     {
         public const string NameLengthErrorMessage= "The {0} must be at least {2} and at max {1} characters long.";
+        public const string EmployeeExistsErrorMessage = "There is already an employee with this name.";
+
 
     }
 }

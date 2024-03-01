@@ -5,6 +5,8 @@ namespace HumanCapitalManagement.Common.Data;
 public interface IDataService<TEntity>
     where TEntity: class
 {
+    Task SaveChanges();
+
     Task Add(TEntity entity);
     
     void Update(TEntity entity);

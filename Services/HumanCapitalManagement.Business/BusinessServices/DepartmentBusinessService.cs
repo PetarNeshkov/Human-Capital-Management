@@ -1,5 +1,6 @@
 using AutoMapper;
 using AutoMapper.QueryableExtensions;
+using HumanCapitalManagement.Business.BusinessServices.Interfaces;
 using HumanCapitalManagement.Business.DataServices.Interfaces;
 using Microsoft.EntityFrameworkCore;
 

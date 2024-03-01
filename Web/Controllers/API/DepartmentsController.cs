@@ -1,5 +1,6 @@
 using HumanCapitalManagement.Web.Models.Departments;
 using HumanCapitalManagement.Business.BusinessServices;
+using HumanCapitalManagement.Business.BusinessServices.Interfaces;
 using HumanCapitalManagement.Web.Infrastructure;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;

@@ -1,4 +1,3 @@
-using System.Collections;
 using System.ComponentModel.DataAnnotations;
 using HumanCapitalManagement.Data.Models;
 using HumanCapitalManagement.Web.Models.Departments;

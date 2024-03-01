@@ -8,6 +8,8 @@ public class DataService<TEntity>(HumanCapitalManagementDbContext db)
     : IDataService<TEntity>
     where TEntity : class
 {
+    public async Task SaveChanges()
+        => await db.SaveChangesAsync();
     public async Task Add(TEntity entity)
         => await db.AddAsync(entity);
 
