@@ -22,22 +22,6 @@
             <div class="col" style="padding: 10px 0;">@employee.DepartmentName</div>
         </div>
     }
-    <div class="container mt-4 d-flex w-50">
-        <nav>
-            <ul class="pagination">
-                <li class="page-item @(Model.Pagination.CurrentPage == 1 ? "disabled" : "")">
-                    <a class="page-link" href="?page=@Model.Pagination.PreviousPage">Previous</a>
-                </li>
-                @for (var i = 1; i <= Model.Pagination.TotalPages; i++)
-                {
-                    <li class="page-item @(i == Model.Pagination.CurrentPage ? "active" : "")">
-                        <a class="page-link" href="?page=@i">@i</a>
-                    </li>
-                }
-                <li class="page-item @(Model.Pagination.CurrentPage == Model.Pagination.TotalPages ? "disabled" : "")">
-                    <a class="page-link" href="?page=@Model.Pagination.NextPage">Next</a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+
+    @await Html.PartialAsync("Partials/_Pagination", Model.Pagination)
 </div>

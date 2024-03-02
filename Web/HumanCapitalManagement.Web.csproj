@@ -31,4 +31,8 @@
       <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Partials\_Pagination.cshtml" />
+    </ItemGroup>
+
 </Project>
