@@ -1,4 +1,4 @@
-namespace HumanCapitalManagement.Web.Models.Departments;
+namespace HumanCapitalManagement.Models.Departments;
 
 public class DepartmentsListingModel
 {

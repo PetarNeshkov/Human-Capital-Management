@@ -1,9 +1,9 @@
 using AutoMapper;
 using HumanCapitalManagement.Business.BusinessServices.Interfaces;
 using HumanCapitalManagement.Business.Models;
+using HumanCapitalManagement.Models.Departments;
+using HumanCapitalManagement.Models.Employees;
 using HumanCapitalManagement.Web.Infrastructure;
-using HumanCapitalManagement.Web.Models.Departments;
-using HumanCapitalManagement.Web.Models.Employees;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using static HumanCapitalManagement.Common.ErrorMessages.Employee;

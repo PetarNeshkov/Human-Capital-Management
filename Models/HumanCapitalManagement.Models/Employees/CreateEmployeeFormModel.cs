@@ -1,11 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 using HumanCapitalManagement.Data.Models;
-using HumanCapitalManagement.Web.Models.Departments;
+using HumanCapitalManagement.Models.Departments;
+
+namespace HumanCapitalManagement.Models.Employees;
+
 using static HumanCapitalManagement.Common.GlobalConstants.Employee;
 using static HumanCapitalManagement.Common.ErrorMessages.Employee;
-
-namespace HumanCapitalManagement.Web.Models.Employees;
-
 public class CreateEmployeeFormModel
 {
     [Required]

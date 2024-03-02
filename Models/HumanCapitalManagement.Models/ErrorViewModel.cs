@@ -1,4 +1,4 @@
-namespace HumanCapitalManagement.Web.Models;
+namespace HumanCapitalManagement.Models;
 
 public class ErrorViewModel
 {
