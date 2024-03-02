@@ -433,6 +433,19 @@
         "runtime": {
           "bin/placeholder/HumanCapitalManagement.Data.Models.dll": {}
         }
+      },
+      "HumanCapitalManagement.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HumanCapitalManagement.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HumanCapitalManagement.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HumanCapitalManagement.Models.dll": {}
+        }
       }
     }
   },
@@ -998,13 +1011,19 @@
       "type": "project",
       "path": "../../Data/HumanCapitalManagement.Data.Models/HumanCapitalManagement.Data.Models.csproj",
       "msbuildProject": "../../Data/HumanCapitalManagement.Data.Models/HumanCapitalManagement.Data.Models.csproj"
+    },
+    "HumanCapitalManagement.Models/1.0.0": {
+      "type": "project",
+      "path": "../../Models/HumanCapitalManagement.Models/HumanCapitalManagement.Models.csproj",
+      "msbuildProject": "../../Models/HumanCapitalManagement.Models/HumanCapitalManagement.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
       "HumanCapitalManagement.Common >= 1.0.0",
-      "HumanCapitalManagement.Common.Data >= 1.0.0"
+      "HumanCapitalManagement.Common.Data >= 1.0.0",
+      "HumanCapitalManagement.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1034,6 +1053,9 @@
           "projectReferences": {
             "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj"
             },
             "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj": {
               "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj"

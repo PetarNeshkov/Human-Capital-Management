@@ -2983,7 +2983,8 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "HumanCapitalManagement.Common": "1.0.0",
-          "HumanCapitalManagement.Common.Data": "1.0.0"
+          "HumanCapitalManagement.Common.Data": "1.0.0",
+          "HumanCapitalManagement.Models": "1.0.0"
         },
         "compile": {
           "bin/placeholder/HumanCapitalManagement.Business.dll": {}

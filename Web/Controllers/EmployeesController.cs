@@ -1,9 +1,6 @@
-using AutoMapper;
 using HumanCapitalManagement.Business.BusinessServices.Interfaces;
-using HumanCapitalManagement.Business.Models;
 using HumanCapitalManagement.Models.Departments;
 using HumanCapitalManagement.Models.Employees;
-using HumanCapitalManagement.Web.Infrastructure;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using static HumanCapitalManagement.Common.ErrorMessages.Employee;
@@ -12,14 +9,13 @@ namespace HumanCapitalManagement.Web.Controllers;
 
 [Authorize]
 public class EmployeesController(
-    IEmployeeBusinessService employeeBusinessService,
-    IMapper mapper)
+    IEmployeeBusinessService employeeBusinessService)
     : Controller
 {
     public IActionResult Create()
         => View(new CreateEmployeeFormModel
         {
-            Departments = Enumerable.Empty<DepartmentsListingModel>()
+            HireDate = DateTime.Today,
         });
 
     [HttpPost]
@@ -30,7 +26,7 @@ public class EmployeesController(
             return View();
         }
 
-        var exists = await employeeBusinessService.CreateEmployee(model.Map<EmployeesBusinessServiceModel>(mapper));
+        var exists = await employeeBusinessService.CreateEmployee(model);
 
         if (!exists)
         {

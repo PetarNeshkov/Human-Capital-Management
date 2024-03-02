@@ -673,3 +673,5 @@ C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\obj\Debug\net8
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\obj\Debug\net8.0\HumanCapitalManagement.Web.pdb
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\obj\Debug\net8.0\HumanCapitalManagement.Web.genruntimeconfig.cache
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\obj\Debug\net8.0\ref\HumanCapitalManagement.Web.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Models.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web\bin\Debug\net8.0\HumanCapitalManagement.Models.pdb

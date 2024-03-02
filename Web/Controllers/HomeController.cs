@@ -1,7 +1,6 @@
 using System.Diagnostics;
 using HumanCapitalManagement.Models;
 using Microsoft.AspNetCore.Mvc;
-using HumanCapitalManagement.Web.Models;
 
 namespace HumanCapitalManagement.Web.Controllers;
 

@@ -13,6 +13,7 @@
           "HumanCapitalManagement.Common": "1.0.0",
           "HumanCapitalManagement.Common.Data": "1.0.0",
           "HumanCapitalManagement.Data": "1.0.0",
+          "HumanCapitalManagement.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.2",
           "Microsoft.AspNetCore.Identity.UI": "8.0.2",
           "Microsoft.EntityFrameworkCore.Design": "8.0.2",
@@ -2006,7 +2007,8 @@
         "dependencies": {
           "AutoMapper": "13.0.1",
           "HumanCapitalManagement.Common": "1.0.0",
-          "HumanCapitalManagement.Common.Data": "1.0.0"
+          "HumanCapitalManagement.Common.Data": "1.0.0",
+          "HumanCapitalManagement.Models": "1.0.0"
         },
         "runtime": {
           "HumanCapitalManagement.Business.dll": {}
@@ -2051,6 +2053,14 @@
         },
         "runtime": {
           "HumanCapitalManagement.Data.Models.dll": {}
+        }
+      },
+      "HumanCapitalManagement.Models/1.0.0": {
+        "dependencies": {
+          "HumanCapitalManagement.Common": "1.0.0"
+        },
+        "runtime": {
+          "HumanCapitalManagement.Models.dll": {}
         }
       }
     }
@@ -3277,6 +3287,11 @@
       "sha512": ""
     },
     "HumanCapitalManagement.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HumanCapitalManagement.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

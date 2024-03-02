@@ -14,9 +14,15 @@ public class CreateEmployeeFormModel
         ErrorMessage = NameLengthErrorMessage,
         MinimumLength = NameMinLength)]
     public string Name { get; init; }
+    
+    public DateTime HireDate { get; set; }
+    
+    public decimal Salary { get; set; }
+    
+    [Required]
+    [MaxLength(PositionMaxLength)]
+    public string Position { get; set; }
 
-    public Department Department { get; init; }
-
-    public IEnumerable<DepartmentsListingModel> Departments { get; set; } 
-
+    public int DepartmentId { get; init; }
+    
 }

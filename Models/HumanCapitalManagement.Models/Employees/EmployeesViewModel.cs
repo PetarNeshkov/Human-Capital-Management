@@ -1,4 +1,4 @@
-namespace HumanCapitalManagement.Web.Models.Employees;
+namespace HumanCapitalManagement.Models.Employees;
 
 public class EmployeesViewModel
 {
