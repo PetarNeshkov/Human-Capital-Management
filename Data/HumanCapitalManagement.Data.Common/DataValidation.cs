@@ -5,6 +5,7 @@
         public static class Employee
         {
             public const int NameMaxLength = 50;
+            public const int PositionMaxLength = 50;
         }
 
         public static class Department

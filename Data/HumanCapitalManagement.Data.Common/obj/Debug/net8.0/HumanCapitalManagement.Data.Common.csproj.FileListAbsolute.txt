@@ -10,3 +10,15 @@ E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Co
 E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Common.dll
 E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
 E:\SoftUni\Projects\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.deps.json
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.sourcelink.json
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Common\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Common.dll

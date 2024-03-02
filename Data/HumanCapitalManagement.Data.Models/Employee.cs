@@ -11,6 +11,13 @@ public class Employee: BaseModel<int>
     [MaxLength(NameMaxLength)]
     public string Name { get; set; }
     
+    public DateTime HireDate { get; set; }
+    
+    public decimal Salary { get; set; }
+    
+    [Required]
+    [MaxLength(PositionMaxLength)]
+    public string Position { get; set; }
     public int DepartmentId { get; set; }
     
     public Department Department { get; set; }

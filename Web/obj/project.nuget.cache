@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FOlvl0k1UbiT4KcwCBXKsaWcCc+7GSkeYvnpXGDuSAFdfGZu5sGGuTxHmraJe+U5JS9gm7rPEDW1DnaKDgcN2A==",
+  "dgSpecHash": "fjfLHU6ctvJi3nfpl+DhsqgjUh/LlNPsCy6Sjx+zE3F9WKMRQN8yrFFPLQlEd1qdPCxldaJRP+QuFfhzYDfq1Q==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Web\\HumanCapitalManagement.Web.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\HumanCapitalManagement.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj": {}
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj": {}
   },
   "projects": {
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
         "projectName": "HumanCapitalManagement.Common",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
               }
             }
           }
@@ -57,18 +57,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
         "projectName": "HumanCapitalManagement.Data.Common",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -110,18 +110,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
         "projectName": "HumanCapitalManagement.Data.Models",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -136,8 +136,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj"
               }
             }
           }
@@ -173,18 +173,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj",
         "projectName": "HumanCapitalManagement.Data",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -199,8 +199,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
               }
             }
           }
@@ -252,18 +252,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
         "projectName": "HumanCapitalManagement.Business",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -278,11 +278,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj"
               },
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj"
               }
             }
           }
@@ -318,18 +318,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
         "projectName": "HumanCapitalManagement.Common.Data",
-        "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -344,8 +344,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj": {
-                "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj"
+              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data\\HumanCapitalManagement.Data.csproj"
               }
             }
           }
@@ -375,7 +375,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

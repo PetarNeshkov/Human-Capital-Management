@@ -598,11 +598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
       "projectName": "HumanCapitalManagement.Common",
-      "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -617,8 +617,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
-              "projectPath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
+            "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
             }
           }
         }
@@ -648,7 +648,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

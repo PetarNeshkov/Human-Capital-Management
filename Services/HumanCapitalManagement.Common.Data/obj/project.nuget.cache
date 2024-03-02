@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1Uy/QULkRo2yU4w161zTqkgysm+OZ3aA/pm1BtWNfrB+CKS6UabhtPXoj19bKFHWI3gDLEwF839QQwKFarNZw==",
+  "dgSpecHash": "HwuzXpTaS/LdsB4m1jRJxAPoEMVdewgdiiiDSY4C+IlCW9iVB8uCXY3s+aclCpITiYG7ouzG1nsjsQqmZyQX7A==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Common.Data\\HumanCapitalManagement.Common.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.2\\microsoft.aspnetcore.cryptography.keyderivation.8.0.2.nupkg.sha512",

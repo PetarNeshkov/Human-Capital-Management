@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dna3yqBvHJnojMBzXAm0gdwXRaXTVlpG238V01hNeQlpAuDcufR7jwIlFtkLnA2zAUcK+0+olRb0/l1G+al1Hw==",
+  "dgSpecHash": "N9ZtWC3To/N4gVIHbdi5m/KSUR4GcUnmVbAN1AKrPd0sB0w1TtN3s4AwSNljprLQOXc9F0W2xjm40x9G9AfUKQ==",
   "success": true,
-  "projectFilePath": "E:\\SoftUni\\Projects\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Services\\HumanCapitalManagement.Business\\HumanCapitalManagement.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.2\\microsoft.aspnetcore.cryptography.internal.8.0.2.nupkg.sha512",

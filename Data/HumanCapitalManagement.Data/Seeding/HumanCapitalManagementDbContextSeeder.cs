@@ -11,6 +11,7 @@ public class HumanCapitalManagementDbContextSeeder : ISeeder
         var seeders = new List<ISeeder>()
         {
             new DepartmentSeeder(),
+            new EmployeeSeeder(),
         };
 
         foreach (var seeder in seeders)
