@@ -9,7 +9,9 @@ namespace HumanCapitalManagement.Web
     {
         public AutoMapperProfiles()
         {
-            CreateMap<Employee, EmployeesViewModel>();
+            CreateMap<Employee, EmployeesListingModel>()
+                .ForMember(x => x.DepartmentName,
+                    src => src.MapFrom(dest => dest.Department.Name));
             CreateMap<Employee, CreateEmployeeFormModel>();
 
             CreateMap<Department, DepartmentsListingModel>();

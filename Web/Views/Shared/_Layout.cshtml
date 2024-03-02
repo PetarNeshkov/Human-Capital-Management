@@ -6,7 +6,6 @@
     <title>@ViewData["Title"] - HumanCapitalManagement.Web</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
-    <link rel="stylesheet" href="~/lib/" asp-append-version="true"/>
     <link rel="stylesheet" href="~/lib/selectize/dist/css/selectize.default.css" asp-append-version="true"/>
     <link rel="stylesheet" href="~/HumanCapitalManagement.Web.styles.css" asp-append-version="true"/>
 </head>
@@ -23,6 +22,9 @@
                 <ul class="navbar-nav flex-grow-1">
                     <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Employees" asp-action="All">Employees</a>
                     </li>
                     @if (User.Identity is { IsAuthenticated: true })
                     {

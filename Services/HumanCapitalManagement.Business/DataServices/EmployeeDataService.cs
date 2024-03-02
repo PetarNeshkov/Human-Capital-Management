@@ -12,4 +12,7 @@ public class EmployeeDataService(HumanCapitalManagementDbContext db)
     public async Task<bool> ExistsByName(string name) 
         => await GetQuery(e => e.Name == name)
             .AnyAsync();
+
+    public async Task<int> GetCount()
+        => await GetQuery().CountAsync(e => !e.IsDeleted);
 }
