@@ -12,6 +12,7 @@ public class HumanCapitalManagementDbContextSeeder : ISeeder
         {
             new DepartmentSeeder(),
             new EmployeeSeeder(),
+            new AdministratorSeeder(),
         };
 
         foreach (var seeder in seeders)

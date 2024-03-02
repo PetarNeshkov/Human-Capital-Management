@@ -8,4 +8,11 @@ public static class GlobalConstants
         public const int NameMinLength = 3;
     }
     
+    public static class Administrator
+    {
+        public const string AdministratorRoleName = "Administrator";
+        public const string AdministratorUsername = "Admin";
+        public const string AdministratorEmail = "admin@humancapitalmanagement.net";
+        public const string AdministratorPassword = "admin567";
+    }
 }

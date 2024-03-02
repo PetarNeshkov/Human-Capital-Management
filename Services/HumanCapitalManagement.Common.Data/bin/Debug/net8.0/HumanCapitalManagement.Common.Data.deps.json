@@ -231,8 +231,17 @@
           }
         }
       },
+      "HumanCapitalManagement.Common/1.0.0": {
+        "dependencies": {
+          "HumanCapitalManagement.Data.Models": "1.0.0"
+        },
+        "runtime": {
+          "HumanCapitalManagement.Common.dll": {}
+        }
+      },
       "HumanCapitalManagement.Data/1.0.0": {
         "dependencies": {
+          "HumanCapitalManagement.Common": "1.0.0",
           "HumanCapitalManagement.Data.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.2"
@@ -402,6 +411,11 @@
       "sha512": "sha512-eoZPynwkZTWFTgnocvXORuCL2yFZtscrUdqVhjxiRULpC7BMg9zhLM5oDZAU5PoX1PgN77hmkKE4a3PQiHqh7Q==",
       "path": "npgsql.entityframeworkcore.postgresql/8.0.2",
       "hashPath": "npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512"
+    },
+    "HumanCapitalManagement.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "HumanCapitalManagement.Data/1.0.0": {
       "type": "project",

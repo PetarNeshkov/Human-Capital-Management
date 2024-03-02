@@ -38,3 +38,5 @@ C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapi
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Common.Data\obj\Debug\net8.0\refint\HumanCapitalManagement.Common.Data.dll
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Common.Data\obj\Debug\net8.0\HumanCapitalManagement.Common.Data.pdb
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Common.Data\obj\Debug\net8.0\ref\HumanCapitalManagement.Common.Data.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Common.Data\bin\Debug\net8.0\HumanCapitalManagement.Common.dll
+C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Common.Data\bin\Debug\net8.0\HumanCapitalManagement.Common.pdb
