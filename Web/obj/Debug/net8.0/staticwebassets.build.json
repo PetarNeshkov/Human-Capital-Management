@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zSN/bSIFuKPi8kHqTQw648jcDwRdFfOHHeCXRfRivXE=",
+  "Hash": "IPgK7qCeXCXoPEP6EPT3IBTUOeiAqgph+XSkK4+YvyQ=",
   "Source": "HumanCapitalManagement.Web",
   "BasePath": "_content/HumanCapitalManagement.Web",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\js\\adminActions.js",
+      "SourceId": "HumanCapitalManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\",
+      "BasePath": "_content/HumanCapitalManagement.Web",
+      "RelativePath": "js/adminActions.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\adminActions.js"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\js\\populateDepartmentDropdown.js",

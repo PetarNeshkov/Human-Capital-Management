@@ -49,7 +49,7 @@ namespace HumanCapitalManagement.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Departments");
+                    b.ToTable("Departments", (string)null);
                 });
 
             modelBuilder.Entity("HumanCapitalManagement.Data.Models.Employee", b =>
@@ -95,7 +95,7 @@ namespace HumanCapitalManagement.Data.Migrations
 
                     b.HasIndex("DepartmentId");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employees", (string)null);
                 });
 
             modelBuilder.Entity("HumanCapitalManagement.Data.Models.User", b =>

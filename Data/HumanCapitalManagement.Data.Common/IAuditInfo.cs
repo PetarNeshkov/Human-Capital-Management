@@ -8,5 +8,5 @@ public interface IAuditInfo
 
     bool IsDeleted { get; set; }
 
-    string DeletedOn { get; set; }
+    DateTime DeletedOn { get; set; }
 }

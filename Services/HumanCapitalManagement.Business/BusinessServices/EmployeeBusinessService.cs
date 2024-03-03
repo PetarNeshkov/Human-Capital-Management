@@ -55,7 +55,7 @@ public class EmployeeBusinessService(
         var dateString = model.HireDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture);
         var formattedDate = DateTime.ParseExact(dateString, "dd/MM/yyyy", CultureInfo.InvariantCulture)
             .ToUniversalTime();
-        
+
         employee.Name = model.Name;
         employee.DepartmentId = model.DepartmentId;
         employee.HireDate = formattedDate;
@@ -67,6 +67,23 @@ public class EmployeeBusinessService(
 
         return true;
     }
+
+    public async Task DeleteEmployee(int id)
+    {
+        var employee = await employeeDataService.GetByIdQuery(id)
+            .FirstOrDefaultAsync();
+
+        if (employee != null)
+        {
+            employee.IsDeleted = true;
+            employee.DeletedOn = DateTime.UtcNow;
+
+            await employeeDataService.SaveChanges();
+        }
+    }
+
+    public async Task<int> GetNonDeletedCount()
+        => await employeeDataService.GetCountByAvailability();
 
     public async Task<EmployeesViewModel> GetCurrentEmployees(int page)
     {

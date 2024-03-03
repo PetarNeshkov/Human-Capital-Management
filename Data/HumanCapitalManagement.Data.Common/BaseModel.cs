@@ -13,5 +13,5 @@ public class BaseModel<TKey>: IAuditInfo
     
     public bool IsDeleted { get; set; }
     
-    public string DeletedOn { get; set; }
+    public DateTime DeletedOn { get; set; }
 }

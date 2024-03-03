@@ -18,5 +18,5 @@ public class User: IdentityUser, IAuditInfo
     
     public bool IsDeleted { get; set; }
     
-    public string DeletedOn { get; set; }
+    public DateTime DeletedOn { get; set; }
 }

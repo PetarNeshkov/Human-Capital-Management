@@ -10,6 +10,10 @@ public interface IEmployeeBusinessService : IService
     
     Task<bool> UpdateEmployee(AdminEditEmployeesFormModel model);
 
+    Task DeleteEmployee(int id);
+
+    Task<int> GetNonDeletedCount();
+
     Task<EmployeesViewModel> GetCurrentEmployees(int page);
     
     Task<AdminEmployeesViewModel> GetAllEmployees(int page);

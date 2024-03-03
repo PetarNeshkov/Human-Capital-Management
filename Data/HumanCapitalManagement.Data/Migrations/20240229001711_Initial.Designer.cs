@@ -37,7 +37,7 @@ namespace HumanCapitalManagement.Data.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("DeletedOn")
-                        .HasColumnType("text");
+                        .HasColumnType("timestamp with time zone");
 
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("boolean");
@@ -67,7 +67,7 @@ namespace HumanCapitalManagement.Data.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("DeletedOn")
-                        .HasColumnType("text");
+                        .HasColumnType("timestamp with time zone");
 
                     b.Property<int>("DepartmentId")
                         .HasColumnType("integer");
@@ -106,7 +106,7 @@ namespace HumanCapitalManagement.Data.Migrations
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("DeletedOn")
-                        .HasColumnType("text");
+                        .HasColumnType("timestamp with time zone");
 
                     b.Property<string>("Email")
                         .HasMaxLength(256)
