@@ -24,6 +24,7 @@ app.PrepareDatabase()
     .UseHttpsRedirection()
     .UseStaticFiles()
     .UseRouting()
+    .UseAnyCors()
     .UseAuthentication()
     .UseAuthorization()
     .UseEndpoints(endpoints =>

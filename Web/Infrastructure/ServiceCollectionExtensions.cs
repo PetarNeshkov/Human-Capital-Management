@@ -64,6 +64,14 @@ public static class ServiceCollectionExtensions
             .AddAntiforgery(options => options
                 .HeaderName = "X-CSRF-TOKEN");
     
+    public static IApplicationBuilder UseAnyCors(
+        this IApplicationBuilder app)
+        => app
+            .UseCors(options => options
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
+    
     public static IServiceCollection AddControllersWithAutoAntiForgeryTokenAttribute(this IServiceCollection services)
     {    
         services

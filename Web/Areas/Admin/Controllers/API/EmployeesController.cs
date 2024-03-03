@@ -10,12 +10,12 @@ public class EmployeesController(IEmployeeBusinessService employeeBusinessServic
     : BaseApiController
 {
     [HttpGet]
+    [ProducesResponseType(typeof(int), Status200OK)]
     public async Task<IActionResult> GetCurrentCount()
         => await employeeBusinessService.GetNonDeletedCount()
             .ToOkResult();
     
-    [HttpDelete]
-    [ProducesResponseType(typeof(int), Status200OK)]
+    [HttpDelete("{id:int}")]
     public async Task<IActionResult> Delete(int id)
         => await employeeBusinessService.DeleteEmployee(id)
             .ToOkResult();

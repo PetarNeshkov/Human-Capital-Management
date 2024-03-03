@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HumanCapitalManagement.Common")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c50c0a73762cf30b38ccb938a5326b2b0771d83d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2064f7ceab085c6e61761be9213730c426957770")]
 [assembly: System.Reflection.AssemblyProductAttribute("HumanCapitalManagement.Common")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HumanCapitalManagement.Common")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

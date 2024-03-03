@@ -15,4 +15,6 @@ public class AdminEmployeesListingModel
     public int DepartmentId { get; init; }
     
     public string DepartmentName { get; init; }
+
+    public bool IsDeleted { get; init; }
 }
