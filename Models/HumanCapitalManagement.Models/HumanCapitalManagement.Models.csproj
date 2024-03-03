@@ -10,8 +10,4 @@
       <ProjectReference Include="..\..\Common\HumanCapitalManagement.Common\HumanCapitalManagement.Common.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Admin\Departments\" />
-    </ItemGroup>
-
 </Project>

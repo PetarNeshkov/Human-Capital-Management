@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/User/Desktop/New folder (2)/Human-Capital-Management/Web/Areas/Admin/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/User/Desktop/New folder (2)/Human-Capital-Management/Web/Areas/Admin/Views/Employees/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRW1wbG95ZWVzXEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

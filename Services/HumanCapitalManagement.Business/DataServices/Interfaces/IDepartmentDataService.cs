@@ -6,4 +6,5 @@ namespace HumanCapitalManagement.Business.DataServices.Interfaces;
 
 public interface IDepartmentDataService : IDataService<Department>, IService
 {
+    Task<bool> ExistsByName(string name);
 }

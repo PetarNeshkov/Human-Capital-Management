@@ -10,6 +10,11 @@ public static class GlobalConstants
         public const int EmployeesPerPage = 5;
     }
     
+    public static class Department
+    {
+        public const int NameMaxLength = 30;
+    }
+    
     public static class Administrator
     {
         public const string AdministratorRoleName = "Administrator";

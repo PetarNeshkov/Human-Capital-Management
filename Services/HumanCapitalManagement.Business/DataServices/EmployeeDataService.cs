@@ -10,7 +10,7 @@ public class EmployeeDataService(HumanCapitalManagementDbContext db)
     : DataService<Employee>(db), IEmployeeDataService
 {
     public async Task<bool> ExistsByName(string name) 
-        => await GetQuery(e => e.Name == name)
+        => await GetQuery(e => e.Name == name && ! e.IsDeleted)
             .AnyAsync();
 
     public async Task<int> GetCountByAvailability(bool takeUnavailableItems = false)
