@@ -1,6 +1,5 @@
 using HumanCapitalManagement.Business.BusinessServices.Interfaces;
 using HumanCapitalManagement.Models.Employees;
-using HumanCapitalManagement.Web.Infrastructure;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using static HumanCapitalManagement.Common.ErrorMessages.Employee;
@@ -35,9 +34,10 @@ public class EmployeesController(
             return View(model);
         }
 
-        return RedirectToAction(nameof(Create));
+        return RedirectToAction(nameof(All));
     }
 
+    [AllowAnonymous]
     public async Task<IActionResult> All([FromQuery] int page = 1)
     {
         var model = await employeeBusinessService.GetCurrentEmployees(page);

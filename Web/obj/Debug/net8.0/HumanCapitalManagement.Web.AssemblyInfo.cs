@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HumanCapitalManagement.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00a9b65dedb65ecb0240c838e824cb38351c3ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9597efe98873f7cb379e5393b645d7f58f22956")]
 [assembly: System.Reflection.AssemblyProductAttribute("HumanCapitalManagement.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HumanCapitalManagement.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

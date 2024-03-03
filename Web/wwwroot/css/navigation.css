@@ -1,0 +1,12 @@
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu{
+    position: absolute;
+    left: 0; 
+    right: 0;
+    border: none;
+    padding-top: 0;
+    padding-bottom: 0;
+}

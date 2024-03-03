@@ -35,4 +35,8 @@
       <_ContentIncludedByDefault Remove="Views\Partials\_Pagination.cshtml" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Areas\Admin\Views\Departments\" />
+    </ItemGroup>
+
 </Project>

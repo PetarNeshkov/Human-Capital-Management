@@ -1,0 +1,36 @@
+@model HumanCapitalManagement.Models.Admin.Employees.AdminEmployeesViewModel
+
+@{
+    ViewData["Title"] = "employees Administration";
+}
+
+<h1 class="text-center" style="font-size: 36px;">All employees</h1>
+<div class="container mt-4">
+    <div class="row text-center" style="background-color: black; color: white; font-size: 18px;">
+        <div class="col" style="padding: 10px 0;">Id</div>
+        <div class="col" style="padding: 10px 0;">Name</div>
+        <div class="col" style="padding: 10px 0;">Hire Date</div>
+        <div class="col" style="padding: 10px 0;">Salary</div>
+        <div class="col" style="padding: 10px 0;">Position</div>
+        <div class="col" style="padding: 10px 0;">Department</div>
+        <div class="col" style="padding: 10px 0;">Actions</div>
+    </div>
+    @foreach (var employee in Model.Employees)
+    {
+        <div class="row text-center" style="border-bottom: 1px solid #ccc; font-size: 16px;">
+            <div class="col" style="padding: 10px 0;">@employee.Id</div>
+            <div class="col" style="padding: 10px 0;">@employee.Name</div>
+            <div class="col" style="padding: 10px 0;">@employee.HireDate.ToString("dd.MM.yyyy 'r.' HH:mm:ss")</div>
+            <div class="col" style="padding: 10px 0;">@employee.Salary.ToString("N2")</div>
+            <div class="col" style="padding: 10px 0;">@employee.Position</div>
+            <div class="col" style="padding: 10px 0;">@employee.DepartmentName</div>
+            <div class="col" style="padding: 10px 0;">
+                @* <a asp-area="Admin" asp-controller="Players" asp-action="ChangeVisibility" asp-route-id="@player.Id" class="btn btn-info">@(player.IsPublic ? "Hide" : "Show")</a> *@
+                <a asp-area="" asp-controller="Employees" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
+                <button asp-route-id="@employee.Id" type="submit" class="btn btn-danger float-right ml-3" id="delete-btn">Delete</button>
+            </div>
+        </div>
+    }
+</div>
+
+@await Html.PartialAsync("Partials/_Pagination", Model.Pagination)

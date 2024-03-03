@@ -3,7 +3,7 @@
     ViewData["Title"] = "Current Employees";
 }
 
-<h1 class="text-center" style="font-size: 36px;">All Employees</h1>
+<h1 class="text-center" style="font-size: 36px;">Our Employees:</h1>
 <div class="container mt-4">
     <div class="row" style="background-color: black; color: white; text-align: center; font-size: 18px;">
         <div class="col" style="padding: 10px 0;">Name</div>
@@ -16,7 +16,7 @@
     {
         <div class="row" style="text-align: center; border-bottom: 1px solid #ccc; font-size: 16px;">
             <div class="col" style="padding: 10px 0;">@employee.Name</div>
-            <div class="col" style="padding: 10px 0;">@employee.HireDate.ToString("dd.MM.yyyy 'r.' HH:mm:ss")</div>
+            <div class="col" style="padding: 10px 0;">@employee.HireDate</div>
             <div class="col" style="padding: 10px 0;">@employee.Salary.ToString("N2")</div>
             <div class="col" style="padding: 10px 0;">@employee.Position</div>
             <div class="col" style="padding: 10px 0;">@employee.DepartmentName</div>

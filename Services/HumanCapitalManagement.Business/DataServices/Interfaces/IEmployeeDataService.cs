@@ -8,5 +8,6 @@ public interface IEmployeeDataService : IDataService<Employee>, IService
 {
     Task<bool> ExistsByName(string name);
 
-    Task<int> GetCount();
+    Task<int> GetCountByAvailability(bool takeUnavailableItems = false);
+    
 }

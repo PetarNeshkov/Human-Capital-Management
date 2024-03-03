@@ -13,6 +13,9 @@ public class EmployeeDataService(HumanCapitalManagementDbContext db)
         => await GetQuery(e => e.Name == name)
             .AnyAsync();
 
-    public async Task<int> GetCount()
-        => await GetQuery().CountAsync(e => !e.IsDeleted);
+    public async Task<int> GetCountByAvailability(bool takeUnavailableItems = false)
+        =>  await (takeUnavailableItems ? 
+            GetQuery().CountAsync()
+            : GetQuery().CountAsync(e => !e.IsDeleted));
+    
 }
