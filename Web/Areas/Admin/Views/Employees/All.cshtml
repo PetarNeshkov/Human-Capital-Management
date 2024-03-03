@@ -26,7 +26,7 @@
             <div class="col" style="padding: 10px 0;">@employee.DepartmentName</div>
             <div class="col" style="padding: 10px 0;">
                 @* <a asp-area="Admin" asp-controller="Players" asp-action="ChangeVisibility" asp-route-id="@player.Id" class="btn btn-info">@(player.IsPublic ? "Hide" : "Show")</a> *@
-                <a asp-area="" asp-controller="Employees" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
+                <a asp-area="Admin" asp-controller="Employees" asp-action="Edit" asp-route-id="@employee.Id" class="btn btn-warning">Edit</a>
                 <button asp-route-id="@employee.Id" type="submit" class="btn btn-danger float-right ml-3" id="delete-btn">Delete</button>
             </div>
         </div>

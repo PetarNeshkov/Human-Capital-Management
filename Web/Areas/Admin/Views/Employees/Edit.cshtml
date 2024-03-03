@@ -1,21 +1,20 @@
+@model AdminEditEmployeesFormModel
 @using Microsoft.AspNetCore.Mvc.TagHelpers
-@model CreateEmployeeFormModel
-@{
-    ViewData["Title"] = "Add Employee";
-}
 
-<link rel="stylesheet" href="/css/add-edit-department.css">
+@{
+    ViewData["Title"] = "Edit Employee";
+}
 
 <!DOCTYPE html>
 
 <html lang="en">
 <head>
-    <title>Add</title>
+    <title>Edit</title>
 </head>
 <body>
 <div class="d-flex justify-content-center align-items-center vh-50">
     <div class="d-block w-75">
-        <h1 class="text-center mt-2">Add a new Employee</h1>
+        <h1 class="text-center mt-2">Edit Employee</h1>
         <div class="row mt-4 mb-4">
             <div id="employee" class="col-6 col-lg-3 h-100 m-auto">
                 <img id="employee-image"
@@ -28,7 +27,7 @@
                     </h5>
                 </div>
             </div>
-            <form class="col-6 col-lg-9" method="post">
+            <form class="col-6 col-lg-9" asp-action="Edit" asp-area="Admin" method="post">
                 <div class="form-group">
                     <label asp-for="Name">Name</label>
                     <input asp-for="Name" type="text" class="form-control" id="name-input">
@@ -57,7 +56,7 @@
                     <input asp-for="Position" class="form-control" id="position-input">
                     <span asp-validation-for="Position" class="text-danger"></span>
                 </div>
-                <button type="submit" class="btn btn-block btn-primary mt-3 w-100">Create Employee</button>
+                <button type="submit" class="btn btn-block btn-primary mt-3 w-100">Edit Employee</button>
             </form>
         </div>
     </div>

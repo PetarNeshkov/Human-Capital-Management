@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 const option = new Option(department.name, department.id);
                 select.add(option);
             });
+
             if (select.selectize) {
                 select.selectize.destroy();
             }
@@ -15,19 +16,27 @@ document.addEventListener('DOMContentLoaded', function () {
                 create: true,
                 sortField: 'text'
             });
+            
+            updateEmployeeTitle();
         })
         .catch(error => {
             console.error('Error loading departments:', error);
-            document.getElementById('department-input').innerHTML = '<option>Error loading departments</option>';
         });
+    updateEmployeeTitle
 });
+
 
 $(document).ready(function () {
     $("#name-input").focusout(function () {
-        let name = $("#name-input").val();
-
-        if (name.length !== 0) {
-            $('.employee-title').text(name);
-        }
+       updateEmployeeTitle();
     });
 });
+
+function updateEmployeeTitle() {
+    let nameInput = document.getElementById('name-input');
+    let employeeTitle = document.querySelector('.employee-title');
+
+    if(nameInput && employeeTitle && nameInput.value) {
+        employeeTitle.textContent = nameInput.value;
+    }
+}

@@ -43,6 +43,31 @@ public class EmployeeBusinessService(
         return true;
     }
 
+    public async Task<bool> UpdateEmployee(AdminEditEmployeesFormModel model)
+    {
+        var employee = await employeeDataService.GetByName(model.Name);
+
+        if (employee == null)
+        {
+            return false;
+        }
+
+        var dateString = model.HireDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture);
+        var formattedDate = DateTime.ParseExact(dateString, "dd/MM/yyyy", CultureInfo.InvariantCulture)
+            .ToUniversalTime();
+        
+        employee.Name = model.Name;
+        employee.DepartmentId = model.DepartmentId;
+        employee.HireDate = formattedDate;
+        employee.Salary = model.Salary;
+        employee.Position = model.Position;
+
+        employeeDataService.Update(employee);
+        await employeeDataService.SaveChanges();
+
+        return true;
+    }
+
     public async Task<EmployeesViewModel> GetCurrentEmployees(int page)
     {
         var count = await employeeDataService.GetCountByAvailability();
@@ -50,7 +75,11 @@ public class EmployeeBusinessService(
 
         var pagination = PaginationProvider.PaginationProvider.PaginationHelper(page, count, EmployeesPerPage);
         var employees = await employeeDataService
-            .GetQuery(filter: e => !e.IsDeleted, skip: skip, take: EmployeesPerPage)
+            .GetQuery(filter: e => !e.IsDeleted,
+                skip: skip,
+                take: EmployeesPerPage,
+                orderBy: e => e.Id,
+                descending: false)
             .ProjectTo<EmployeesListingModel>(mapper.ConfigurationProvider)
             .ToListAsync();
 
@@ -70,10 +99,10 @@ public class EmployeeBusinessService(
         var employees = await employeeDataService
             .GetQuery(
                 orderBy: e => e.Id,
-                descending: false, 
+                descending: false,
                 skip: skip,
-                take: EmployeesPerPage 
-            )         
+                take: EmployeesPerPage
+            )
             .ProjectTo<AdminEmployeesListingModel>(mapper.ConfigurationProvider)
             .ToListAsync();
 
@@ -83,4 +112,9 @@ public class EmployeeBusinessService(
             Pagination = pagination
         };
     }
+
+    public async Task<TService?> GetById<TService>(int id)
+        => await employeeDataService.GetByIdQuery(id)
+            .ProjectTo<TService>(mapper.ConfigurationProvider)
+            .FirstOrDefaultAsync();
 }

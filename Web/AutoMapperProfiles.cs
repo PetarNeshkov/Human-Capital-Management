@@ -13,6 +13,7 @@ namespace HumanCapitalManagement.Web
             CreateMap<Employee, AdminEmployeesListingModel>()
                 .ForMember(x => x.DepartmentName,
                     src => src.MapFrom(dest => dest.Department.Name));
+            CreateMap<Employee, AdminEditEmployeesFormModel>();
             
             CreateMap<Employee, EmployeesListingModel>()
                 .ForMember(x => x.DepartmentName,

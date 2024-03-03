@@ -19,4 +19,6 @@ public interface IDataService<TEntity>
         bool descending = false,
         int? skip = null,
         int? take = null);
+    
+    IQueryable<TEntity> GetByIdQuery(object id);
 }

@@ -1,5 +1,7 @@
 using System.Linq.Expressions;
 using HumanCapitalManagement.Data;
+using HumanCapitalManagement.Data.Common;
+using HumanCapitalManagement.Data.Common.Utils;
 using Microsoft.EntityFrameworkCore;
 
 namespace HumanCapitalManagement.Common.Data;
@@ -52,7 +54,14 @@ public class DataService<TEntity>(HumanCapitalManagementDbContext db)
 
         return query;
     }
-    
+
+    public IQueryable<TEntity> GetByIdQuery(object id)
+    {
+        var filter = ExpressionBuilder.BuildEqualsFilter<TEntity>(id, nameof(BaseModel<object>.Id));
+
+        return DbSet.Where(filter);
+    }
+
     private DbSet<TEntity> DbSet
         => db.Set<TEntity>();
 }

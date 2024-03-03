@@ -7,6 +7,8 @@ namespace HumanCapitalManagement.Business.DataServices.Interfaces;
 public interface IEmployeeDataService : IDataService<Employee>, IService
 {
     Task<bool> ExistsByName(string name);
+    
+    Task<Employee?> GetByName(string name);
 
     Task<int> GetCountByAvailability(bool takeUnavailableItems = false);
     

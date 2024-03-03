@@ -34,7 +34,7 @@ public class EmployeeSeeder : ISeeder
             },
             new()
             {
-                Name = "Krasimir Stoyanova",
+                Name = "Krasimira Stoyanova",
                 DepartmentId = 2,
                 HireDate = new DateTime(2015, 06, 03).ToUniversalTime(),
                 Position = "Tech Lead",

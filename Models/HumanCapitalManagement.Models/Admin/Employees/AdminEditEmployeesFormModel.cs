@@ -1,10 +1,11 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace HumanCapitalManagement.Models.Employees;
+namespace HumanCapitalManagement.Models.Admin.Employees;
 
 using static Common.GlobalConstants.Employee;
 using static Common.ErrorMessages.Employee;
-public class CreateEmployeeFormModel
+
+public class AdminEditEmployeesFormModel
 {
     [Required]
     [StringLength(
@@ -21,6 +22,5 @@ public class CreateEmployeeFormModel
     [MaxLength(PositionMaxLength)]
     public string Position { get; set; }
 
-    public int DepartmentId { get; init; }
-    
+    public int DepartmentId { get; init; }   
 }

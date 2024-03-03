@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XTQeVYngKoOSjmd1bGwN6H2ZKCIUC7mi5RtvmFdp0Uc=",
+  "Hash": "zSN/bSIFuKPi8kHqTQw648jcDwRdFfOHHeCXRfRivXE=",
   "Source": "HumanCapitalManagement.Web",
   "BasePath": "_content/HumanCapitalManagement.Web",
   "Mode": "Default",
@@ -1195,12 +1195,12 @@
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HumanCapitalManagement.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\css\\add-department.css",
+      "Identity": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\css\\add-edit-department.css",
       "SourceId": "HumanCapitalManagement.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\",
       "BasePath": "_content/HumanCapitalManagement.Web",
-      "RelativePath": "css/add-department.css",
+      "RelativePath": "css/add-edit-department.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1211,7 +1211,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\add-department.css"
+      "OriginalItemSpec": "wwwroot\\css\\add-edit-department.css"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Web\\wwwroot\\css\\navigation.css",
