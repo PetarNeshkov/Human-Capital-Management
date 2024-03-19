@@ -7,6 +7,7 @@ using HumanCapitalManagement.Data.Models;
 using HumanCapitalManagement.Models.Admin.Employees;
 using HumanCapitalManagement.Models.Employees;
 using Microsoft.EntityFrameworkCore;
+using static HumanCapitalManagement.Business.PaginationProvider.PaginationProvider;
 using static HumanCapitalManagement.Common.GlobalConstants.Employee;
 
 namespace HumanCapitalManagement.Business.BusinessServices;
@@ -90,7 +91,7 @@ public class EmployeeBusinessService(
         var count = await employeeDataService.GetCountByAvailability();
         var skip = (page - 1) * EmployeesPerPage;
 
-        var pagination = PaginationProvider.PaginationProvider.PaginationHelper(page, count, EmployeesPerPage);
+        var pagination = PaginationHelper(page, count, EmployeesPerPage);
         var employees = await employeeDataService
             .GetQuery(filter: e => !e.IsDeleted,
                 skip: skip,
@@ -112,7 +113,7 @@ public class EmployeeBusinessService(
         var count = await employeeDataService.GetCountByAvailability(true);
         var skip = (page - 1) * EmployeesPerPage;
 
-        var pagination = PaginationProvider.PaginationProvider.PaginationHelper(page, count, EmployeesPerPage);
+        var pagination = PaginationHelper(page, count, EmployeesPerPage);
         var employees = await employeeDataService
             .GetQuery(
                 orderBy: e => e.Id,

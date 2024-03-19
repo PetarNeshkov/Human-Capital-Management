@@ -43,7 +43,7 @@ public class EmployeesController (
 
         var exists = await employeeBusinessService.UpdateEmployee(model);
 
-        if (!exists)
+        if (exists)
         {
             ModelState.AddModelError(nameof(model.Name), EmployeeExistsErrorMessage);
 

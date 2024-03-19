@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
         .catch(error => {
             console.error('Error loading departments:', error);
         });
-    updateEmployeeTitle
+    updateEmployeeTitle()
 });
 
 

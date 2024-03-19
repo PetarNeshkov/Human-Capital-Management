@@ -30,3 +30,19 @@ C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalM
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Models.dll
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.deps.json
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.sourcelink.json
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\refint\HumanCapitalManagement.Data.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Data\HumanCapitalManagement.Data.Models\obj\Debug\net8.0\ref\HumanCapitalManagement.Data.Models.dll

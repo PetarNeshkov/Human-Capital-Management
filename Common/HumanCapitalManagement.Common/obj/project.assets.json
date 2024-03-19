@@ -598,11 +598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
       "projectName": "HumanCapitalManagement.Common",
-      "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -617,8 +617,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj"
             }
           }
         }

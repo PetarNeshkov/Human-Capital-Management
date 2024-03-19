@@ -616,11 +616,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj",
       "projectName": "HumanCapitalManagement.Models",
-      "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\HumanCapitalManagement.Models.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Models\\HumanCapitalManagement.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -635,8 +635,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Common\\HumanCapitalManagement.Common\\HumanCapitalManagement.Common.csproj"
             }
           }
         }

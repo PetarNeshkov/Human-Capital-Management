@@ -48,3 +48,29 @@ C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapi
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\ref\HumanCapitalManagement.Business.dll
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Models.dll
 C:\Users\User\Desktop\New folder (2)\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Models.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Business.deps.json
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Business.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Business.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Common.Data.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Common.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Models.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Common.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Models.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Common.Data.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.Common.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\bin\Debug\net8.0\HumanCapitalManagement.Data.Models.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.sourcelink.json
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.csproj.CopyComplete
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\refint\HumanCapitalManagement.Business.dll
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\HumanCapitalManagement.Business.pdb
+C:\Users\User\Desktop\New folder\Human-Capital-Management\Services\HumanCapitalManagement.Business\obj\Debug\net8.0\ref\HumanCapitalManagement.Business.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {}
+    "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
         "projectName": "HumanCapitalManagement.Data.Common",
-        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
         "projectName": "HumanCapitalManagement.Data.Models",
-        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\HumanCapitalManagement.Data.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj"
+              "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\New folder\\Human-Capital-Management\\Data\\HumanCapitalManagement.Data.Common\\HumanCapitalManagement.Data.Common.csproj"
               }
             }
           }
